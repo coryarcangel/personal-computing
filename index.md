@@ -1,5 +1,5 @@
 # Personal Computing
-___<hr>___
+---
 ## Overview
 
 In this course, we will be examining and creating contemporary art that is made to be experienced on/over personal computing devices such as computers and cell phones.
@@ -239,7 +239,7 @@ http://webenact.rhizome.org/excellences-and-perfections
 
 1. Idea grind & final project presentations (individual tutorials) (g8) 
 
-___<hr>___
+---
 
 last updated oct 19, 2019
 version 2
