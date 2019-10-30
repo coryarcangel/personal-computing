@@ -95,10 +95,15 @@ By Lauren Studebaker
 2018  
 https://rhizome.org/editorial/2018/aug/14/an-oasis-a-utopia-and-a-nightmare/
 
-1. Defiant Zuckerberg Says Facebook Won’t Police Political Speech
-By Cecilia Kang and Mike Isaac
-2019
+1. Defiant Zuckerberg Says Facebook Won’t Police Political Speech  
+By Cecilia Kang and Mike Isaac  
+2019  
 https://www.nytimes.com/2019/10/17/business/zuckerberg-facebook-free-speech.html
+
+1. This American Life: Cady Noland’s Art Feels More Prescient, Incisive, and Urgent Than Ever  
+By Andrew Russeth  
+2019  
+http://www.artnews.com/2018/03/27/icons-cady-noland/
 
 ## Videos / Movies
 
@@ -227,11 +232,15 @@ http://webenact.rhizome.org/excellences-and-perfections
 
 1. Web-recorder! (g7)
 
-1. Field-trip?
+1. Field-trip 2 Kunsthall Zurich & Karma International
 
 1. Net art blast (w1-10)
 
 1. Net art blast #2 (w9)
+
+1. Cory "lecture"
+
+1. Phone free Thursday morning!
 
 1. Movie break (m1) 
 
@@ -241,6 +250,6 @@ http://webenact.rhizome.org/excellences-and-perfections
 
 ---
 
-last updated oct 19, 2019
-version 2
+last updated oct 30, 2019
+Final version 2019
 special thx 2 Laurel Schulst for this formatting technique, g1, m1, etc, etc. Really helpful! 
