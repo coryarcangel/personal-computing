@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fall 2019
+---
+
 # Personal Computing
 ---
 ## Overview
