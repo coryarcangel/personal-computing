@@ -78,7 +78,7 @@ All class notes, and breadcrums, sub edits, tangents, related things, etc, etc, 
 
 ## Structure
 
-This class will meet for one week - from 10am to 4pm. The structure - which is broken up into 45 min hour long modules - will ping pong between lectures (l), visits to different spaces 🏤, film screenings 📺, readings 📒, discussions 👑, and games / projects 👾, and finally an exhibition 🖼. 
+This class will meet for one week - from 10am to 4pm. The structure - which is broken up into 45 min hour long modules - will ping pong between lectures 🤦‍, visits to different spaces 🏤, film screenings 📺, readings 📒, discussions 👑, and games / projects 👾, and finally an exhibition 🖼. 
 
 ## 📒 Readings
 
@@ -120,24 +120,33 @@ progresses)
 </thead>
 <tbody>
     <tr>
-    <td>Reading</td>
-    <td>Intro: Who r we?</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>📒📒📒📒 Reading</td>
+    <td>The Creative Act, Marcel Duchamp</td>
+    <td>Before ‘Old Town Road,’ Lil Nas X Was a Tweetdecker, Brian Feldman & The Short Rise and Long Tail of Lil Nas X, By Jon Caramanica  
+    </td>
+    <td>A Business With No End, Where does this strange empire start or stop?, By JENNY ODELL</td>
+    <td>Curating Online Exhibitions, Part 1: Performance, variability, objecthood, By Michael Connor & The Universal: An Interview With Olia Lialina, By Robert Barry</td>
     <td></td>
   </tr><tr>
     <td>10:00-10:45</td>
-    <td>Intro: Who r we?</td>
-    <td></td>
+   <td rowspan="2">Introductions (5 min each)</td>
+    <td rowspan="2">IRL workshop
+    <ul>
+    <li>Where r u?</li>
+    <li>Whats on TV?</li>
+    <li>Whats in your fridge?</li>
+    <li>What's outside your window?</li>
+    <li>What is your pet doing?</li>
+    </ul>
+    </td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>11:00-11:45</td>
-    <td>Are.na workshop :-)</td>
-    <td></td>
+    
+
     <td></td>
     <td></td>
     <td></td>
@@ -152,8 +161,8 @@ progresses)
   </tr>
   <tr>
     <td>1:00-1:45</td>
-    <td></td>
-    <td></td>
+    <td>🤦 Are.na workshop</td>
+    <td>📺 Electronic Arts Intermix screening! </td>
     <td></td>
     <td></td>
     <td></td>
@@ -161,7 +170,7 @@ progresses)
   <tr>
     <td>2:00-2:45</td>
     <td></td>
-    <td></td>
+    <td>📺 For your enjoyment, I will make a megathread of my all time fav youtube vids. </td>
     <td></td>
     <td></td>
     <td></td>
