@@ -1,13 +1,10 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Home</title>
-  </head>
-  <body>
-    <style>
+I"�"<style>
 body {
 background-color: #fbfbfb
+}
+h1   {}
+p    {
+font-size: 18px;
 }
 table, th, td {
   border: 1px solid black;
@@ -54,8 +51,8 @@ table, th, td {
 <p>We will be meeting over Zoom at 10:00-16:00 every day with a lunch break between 12:00-1:00. The time before and after class can be used for readings, or web surfing, or unstructured time”. The address is: <br />
 <a href="https://zhdk.zoom.us/j/96351443348?pwd=eW9nSk9XckFCaHNTUlg3bG1WVFo5dz09">https://zhdk.zoom.us/j/96351443348?pwd=eW9nSk9XckFCaHNTUlg3bG1WVFo5dz09</a></p>
 
-<p>All class notes, and breadcrums, sub edits, tangents, related things, etc, etc, will be kept track with are.na. If you are unfamiliar with Are.na, we will be doing an Are.na workshop on the first day of class:<br />
-<a href="https://www.are.na/personal-computing-zhdk-spring-2020">https://www.are.na/personal-computing-zhdk-spring-2020</a>.</p>
+<p>All class notes, and breadcrums, sub edits, tangents, related things, etc, etc, will be kept track with are.na at:<br />
+<a href="https://www.are.na/personal-computing-zhdk-spring-2020">https://www.are.na/personal-computing-zhdk-spring-2020</a>. If you are unfamiliar with Are.na, we will be doing an Are.na workshop on the first day of class.</p>
 
 <h2 id="zoom-ediquite">Zoom ediquite</h2>
 
@@ -152,7 +149,7 @@ progresses)</p>
     
 
     <td>🚨🚨 TBD 🚨🚨</td>
-    <td>👾 Hosted, by Oila Lialina</td>
+    <td>👾 https://hosted.z21.web.core.windows.net/</td>
 
   </tr>
   
@@ -218,6 +215,4 @@ Archive: <a href="index-2019/">2019</a></p>
 <img src="imgs/unicorn.gif" />
 </div>
 
-
-  </body>
-</html>
+:ET

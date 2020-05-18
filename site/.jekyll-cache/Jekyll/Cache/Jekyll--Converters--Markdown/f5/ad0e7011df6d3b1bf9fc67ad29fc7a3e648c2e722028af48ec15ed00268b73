@@ -1,13 +1,10 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Home</title>
-  </head>
-  <body>
-    <style>
+I"s%<style>
 body {
 background-color: #fbfbfb
+}
+h1   {}
+p    {
+font-size: 18px;
 }
 table, th, td {
   border: 1px solid black;
@@ -35,7 +32,7 @@ table, th, td {
 
 <p>The workshop is organised as a crash course in all things related to anything I can think of in making online work, and putting together an online exhibition. It’s going to be fast paced, a bit un-focused, and I’ll try to cram as much information in as I can in the 5 days. Don’t worry if you miss something, because we will keeping track of everyting on the social network Are.na - which will be a big part of the class. We will start with the basics and focusing on a framework to discuss the seemingly simple question - what is contemporary art? and working from there we will dive into contemporary art and all it’s online permutations, with a healthy dose of fringe experiences regarding our digital daily lives.</p>
 
-<p>A few notes on COVID. I realize this might seem a disappointment to not meet IRL, but I thought of this as an opportunity which seems very timely given the workshop is about art to be experienced at a distance. So, in keeping with those thoughts, I have re-worked the workshop to take advantage of things which are not IRL based. Yah!</p>
+<p>A few notes on COVID. I realize this might seem a disappointment to not meet IRL, but I thought of this as an opportunity which seems very timely given the workshop is about art to be experience at a distance. So, in keeping with those thoughts, I have re-worked the workshop to take advantage of things which are not IRL based. Yah!</p>
 
 <h2 id="requirements">Requirements</h2>
 
@@ -54,8 +51,8 @@ table, th, td {
 <p>We will be meeting over Zoom at 10:00-16:00 every day with a lunch break between 12:00-1:00. The time before and after class can be used for readings, or web surfing, or unstructured time”. The address is: <br />
 <a href="https://zhdk.zoom.us/j/96351443348?pwd=eW9nSk9XckFCaHNTUlg3bG1WVFo5dz09">https://zhdk.zoom.us/j/96351443348?pwd=eW9nSk9XckFCaHNTUlg3bG1WVFo5dz09</a></p>
 
-<p>All class notes, and breadcrums, sub edits, tangents, related things, etc, etc, will be kept track with are.na. If you are unfamiliar with Are.na, we will be doing an Are.na workshop on the first day of class:<br />
-<a href="https://www.are.na/personal-computing-zhdk-spring-2020">https://www.are.na/personal-computing-zhdk-spring-2020</a>.</p>
+<p>All class notes, and breadcrums, sub edits, tangents, related things, etc, etc, will be kept track with are.na at:<br />
+<a href="https://www.are.na/personal-computing-zhdk-spring-2020">https://www.are.na/personal-computing-zhdk-spring-2020</a>. If you are unfamiliar with Are.na, we will be doing an Are.na workshop on the first day of class.</p>
 
 <h2 id="zoom-ediquite">Zoom ediquite</h2>
 
@@ -94,7 +91,25 @@ progresses)</p>
 <p><a href="http://eai.org/education/">Electronic Art Intermix</a><br />
 <a href="https://www.are.na/personal-computing-zhdk-spring-2020/movies-vidz">Misc</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0tZhOF2kgDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<h2 id="games">Games</h2>
+
+<ol>
+  <li>Give a 5 minute presentation on an artist’s web presence - I will assign the artist over Zoom.
+    <ul>
+      <li>What’s their work?</li>
+      <li>What’s their web presence?</li>
+      <li>Is there a relationship between the 2?</li>
+    </ul>
+  </li>
+  <li>Find a youtube video with nearly zero views.
+    <ul>
+      <li>Whats at the end of Youtube?</li>
+      <li>How did you find the video?</li>
+      <li>Is it an art?</li>
+    </ul>
+  </li>
+  <li>Final project. Identify a context and structure online, or at least that relies on electricity) and report on its input and outputs and possibilities. Make a poetic gesture in this context (doesnt have to be complicated!). Present to class.</li>
+</ol>
 
 <h2 id="calendar">Calendar</h2>
 
@@ -111,7 +126,7 @@ progresses)</p>
 </thead>
 
 <tbody>
-  
+   
     <tr>
     <td>📒 Reading</td>
     <td>📒 The Creative Act, Marcel Duchamp</td>
@@ -119,13 +134,13 @@ progresses)</p>
     </td>
     <td>📒 A Business With No End, Where does this strange empire start or stop?, By JENNY ODELL</td>
     <td>📒 Curating Online Exhibitions, Part 1: Performance, variability, objecthood, By Michael Connor &amp; The Universal: An Interview With Olia Lialina, By Robert Barry</td>
-    <td>📒 Anything on RAW Are.na channel which looks fun</td>
+    <td></td>
   </tr>
   
   <tr>
     <td>10:00-10:45</td>
    <td rowspan="2">Introductions (5 min each)</td>
-    <td rowspan="2">🏤 IRL workshop
+    <td rowspan="2">IRL workshop
     <ul>
     <li>Where r u?</li>
     <li>Whats on TV?</li>
@@ -135,25 +150,17 @@ progresses)</p>
     </ul>
     </td>
     <td>🏤 Museum of Online Multiplayer Art</td>
-    <td>🤦 My (Cory's) journey through net.art 2000-2020
-     <ul>
-    <li>Introduction &amp; net.art generations</li>
-    <li>late 90's rain</li>
-    <li>NYC early 2000's</li>
-    <li>Surf clubs (second golden era?)</li>
-    <li>Since then ......</li>
-    </ul>   
-    </td>
-    <td rowspan="2">😵 Individual tutorials </td>
+    <td>🤦 My journey through net.art 2000-2020</td>
+    <td></td>
   </tr>
   
   <tr>
     <td>11:00-11:45</td>
     
 
-    <td>🚨🚨 TBD 🚨🚨</td>
-    <td>👾 Hosted, by Oila Lialina</td>
-
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   
   <tr>
@@ -169,55 +176,95 @@ progresses)</p>
     <td>1:00-1:45</td>
     <td>🤦 Are.na workshop</td>
     <td>📺 Electronic Arts Intermix screening! </td>
-    <td rowspan="2">📺 Life 2.0 screening </td>
-    <td>🚨🚨 TBD 🚨🚨</td>
-    <td rowspan="2">🖼SHOW</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>2:00-2:45</td>
-    <td rowspan="2">👾 Give a 5 minute presentation on an artist's web presence - I will assign the artist over Zoom. 
-    <ul>
-    	<li>What's their work?
-    	</li>
-    	<li>What's their web presence?
-    	</li>
-    	<li>Is there a relationship between the 2?
-    	</li>
-    </ul>
-     </td>
+    <td></td>
     <td>📺 For your enjoyment, I will make a megathread of my all time fav youtube vids. </td>
-
-
-    <td rowspan="2">😵 Individual tutorials: Final project. Identify a context and structure online, or at least that relies on electricity) and report on its input and outputs and possibilities. Make a poetic gesture in this context (doesnt have to be complicated!). Present to class on Friday!.  
-</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   
   <tr>
     <td>3:00-3:45</td>
-    
-    <td>👾 Find a youtube video with nearly zero views. 
-   	<ul>
-   	<li>Whats at the end of Youtube? </li>
-   <li> How did you find the video? </li>
-   <li> Is it an art? </li>
-    </ul>
-    </td>
     <td></td>
-
-    <td>💅🏽🎨🎯 Wrap up party </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </tbody>
 </table>
 
+<ol>
+  <li>Art (r1, g1)
+    <ul>
+      <li>Work vs. showbiz.</li>
+      <li>Duchamp and sugar.</li>
+      <li>How do artists &amp; art appear on the web today?</li>
+    </ul>
+  </li>
+  <li>Showbiz (g2, r7)
+    <ul>
+      <li>How can artists manipulate the perception of their work?</li>
+      <li>What is our identity online?</li>
+    </ul>
+  </li>
+  <li>
+    <p>WWW (g3)</p>
+  </li>
+  <li>
+    <p>Whats on the web? HELP! (r8, g5, g6)</p>
+  </li>
+  <li>
+    <p>Databases (g7)</p>
+  </li>
+  <li>Olde Townes (r4, r5, r6, g5)
+    <ul>
+      <li>A journey through the assent of Lil Nas X`s</li>
+      <li>How does this relate 2 Duchamps The Creative Act?</li>
+    </ul>
+  </li>
+  <li>
+    <p>Web-recorder! (g7)</p>
+  </li>
+  <li>
+    <p>Field-trip 2 Kunsthall Zurich &amp; Karma International</p>
+  </li>
+  <li>
+    <p>Net art blast (w1-10)</p>
+  </li>
+  <li>
+    <p>Net art blast #2 (w9)</p>
+  </li>
+  <li>
+    <p>Cory “lecture”</p>
+  </li>
+  <li>
+    <p>Phone free Thursday morning!</p>
+  </li>
+  <li>
+    <p>Movie break (m1)</p>
+  </li>
+  <li>
+    <p>What are the various contexts available online, and how can we clock them? (r12)</p>
+  </li>
+  <li>Idea grind &amp; final project presentations (individual tutorials) (g8)</li>
+</ol>
+
 <hr />
 
-<p>last updated XXXXXXXXX<br />
-Archive: <a href="index-2019/">2019</a></p>
+<p>last updated XXXXXXXXX
+<a href="index-2019/">2019</a>
+special thx 2 Laurel Schulst for this formatting technique, g1, m1, etc, etc. Really helpful!
+&lt;/body&gt;</p>
 
 <div class="bottom-puke">
 <img src="imgs/unicorn.gif" />
 </div>
 
-
-  </body>
-</html>
+:ET

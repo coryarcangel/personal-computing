@@ -1,11 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Home</title>
-  </head>
-  <body>
-    <style>
+I"”"<style>
 body {
 background-color: #fbfbfb
 }
@@ -218,6 +211,4 @@ Archive: <a href="index-2019/">2019</a></p>
 <img src="imgs/unicorn.gif" />
 </div>
 
-
-  </body>
-</html>
+:ET
