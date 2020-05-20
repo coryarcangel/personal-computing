@@ -2,25 +2,15 @@
 layout: default
 title: Home
 ---
-
-<style>
-body {
-background-color: #fbfbfb
-}
-table, th, td {
-  border: 1px solid black;
-}
-
-.bottom-puke
-{
-	position: fixed;
-	right: 0px;
-	bottom: 0px;
-}
-</style>
-
-# Personal Computing
+# Personal Computing 💅🏽
 ---
+---
+---
+
+¯¯̿̿¯̿̿'̿̿̿̿̿̿̿'̿̿'̿̿̿̿̿'̿̿̿)͇̿̿)̿̿̿̿ '̿̿̿̿̿̿\̵͇̿̿\=(•̪̀●́)=o/̵͇̿̿/'̿̿ ̿ ̿̿
+▬▬ι═══════ﺤ    -═══════ι▬▬ ס₪₪₪₪§|(Ξ≥≤≥≤≥≤ΞΞΞΞΞΞΞΞΞΞ>
+
+
 ## Overview
 
 In this workshop, we will be examining and creating contemporary art that is made to be experienced on/over personal computing devices such as computers and cell phones.
@@ -31,7 +21,7 @@ The great thing about this type of art is many works can be experienced through 
 
 We will be working towards an informal, and private online exhibition on ... Friday the last day of the workshop!. 
 
-The workshop is organised as a crash course in all things related to anything I can think of in making online work, and putting together an online exhibition. It's going to be fast paced, a bit un-focused, and I'll try to cram as much information in as I can in the 5 days. Don't worry if you miss something, because we will keeping track of everyting on the social network Are.na - which will be a big part of the class. We will start with the basics and focusing on a framework to discuss the seemingly simple question - what is contemporary art? and working from there we will dive into contemporary art and all it's online permutations, with a healthy dose of fringe experiences regarding our digital daily lives.
+The workshop is organised as a crash course in all things related to anything I can think of in making online work, and putting together an online exhibition. It's going to be fast paced, a bit un-focused, and I'll try to cram as much information in as I can in the 5 days. Don't worry if you miss something, because we will keeping track of everyting on the social network Are.na - which will be a big part of the class. We will start with the basics and focus on a framework to discuss the seemingly simple question - what is contemporary art? And working from there we will dive into contemporary art and all it's online permutations, with a healthy dose of fringe experiences regarding our digital daily lives.
 
 A few notes on COVID. I realize this might seem a disappointment to not meet IRL, but I thought of this as an opportunity which seems very timely given the workshop is about art to be experienced at a distance. So, in keeping with those thoughts, I have re-worked the workshop to take advantage of things which are not IRL based. Yah!
 
@@ -45,7 +35,21 @@ Cory Arcangel
 
 ## Class Website 
 
+Ƹ̵̡Ӝ̵̨̄Ʒ
+Ƹ̵̡Ӝ̵̨̄Ʒ
+Ƹ̵̡Ӝ̵̨̄Ʒ
+Ƹ̵̡Ӝ̵̨̄Ʒ
+Ƹ̵̡Ӝ̵̨̄Ʒ
+Ƹ̵̡Ӝ̵̨̄Ʒ
+
 [http://personal-computing.coryarcangel.com](http://personal-computing.coryarcangel.com)
+
+Ƹ̵̡Ӝ̵̨̄Ʒ
+Ƹ̵̡Ӝ̵̨̄Ʒ
+Ƹ̵̡Ӝ̵̨̄Ʒ
+Ƹ̵̡Ӝ̵̨̄Ʒ
+Ƹ̵̡Ӝ̵̨̄Ʒ
+Ƹ̵̡Ӝ̵̨̄Ʒ
 
 ## Details
 
@@ -77,6 +81,8 @@ All class notes, and breadcrums, sub edits, tangents, related things, etc, etc, 
 
 This class will meet for one week - from 10am to 4pm. The structure - which is broken up into 45 min hour long modules - will ping pong between lectures 🤦‍, site visits to different spaces 🏤, film screenings 📺, readings 📒, discussions 👑, and games / projects 👾, and finally an exhibition 🖼. 
 
+((̲̅ ̲̅(̲̅C̲̅r̲̅a̲̅y̲̅o̲̅l̲̲̅̅a̲̅( ̲̅((>
+
 ## 📒 Readings
 
 [📒 Assigned readings](https://www.are.na/personal-computing-zhdk-spring-2020/readingz) Are.na channel  
@@ -89,6 +95,10 @@ progresses)
 [Misc](https://www.are.na/personal-computing-zhdk-spring-2020/movies-vidz)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0tZhOF2kgDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+♫♪.ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı.♫♪
+°º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸
+_/\__/\__0>
 
 ## Calendar
 
@@ -196,7 +206,7 @@ progresses)
    <li> Is it an art? </li>
     </ul>
     </td>
-    <td></td>
+	<td>👾 Meme fill in</td>
 
     <td>💅🏽🎨🎯 Wrap up party </td>
   </tr>
@@ -205,10 +215,10 @@ progresses)
 
 ---
 
-last updated XXXXXXXXX  
+last updated May, 20, 2020 
 Archive: [2019](index-2019/)
 
-<div class="bottom-puke">
+<div class="bottom-pony">
 <img src="imgs/unicorn.gif">
 </div>
 
