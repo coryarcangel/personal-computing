@@ -86,7 +86,7 @@ This class will meet for one week - from 10am to 4pm. The structure - which is b
 ## 📒 Readings
 
 [📒 Assigned readings](https://www.are.na/personal-computing-zhdk-spring-2020/readingz) Are.na channel  
-[🤦‍ RAW readings](https://www.are.na/personal-computing-zhdk-spring-2020/readingz) Are.na channel (to be updated BY ALL as class 
+[🤦‍ RAW readings](https://www.are.na/personal-computing-zhdk-spring-2020/raw-4scc_zkklo4) Are.na channel (to be updated BY ALL as class 
 progresses)
 
 ## 📺 Movies / Vids
@@ -139,9 +139,9 @@ _/\__/\__0>
     </ul>
     </td>
     <td>🏤 Museum of Online Multiplayer Art</td>
-    <td>🤦 My (Cory's) journey through net.art 2000-2020
+    <td>🤦 My (Cory's) journey through net.art 1996-2020 (part #2)
      <ul>
-    <li>Introduction & net.art generations</li>
+    <li>Introduction & net.art generations(? )</li>
     <li>late 90's rain</li>
     <li>NYC early 2000's</li>
     <li>Surf clubs (second golden era?)</li>
@@ -155,7 +155,7 @@ _/\__/\__0>
     <td>11:00-11:45</td>
     
 
-    <td>🚨🚨 TBD 🚨🚨</td>
+    <td>🏤 Visit 2 Sitterwerk</td>
     <td>👾 Hosted, by Oila Lialina</td>
 
   </tr>
@@ -174,7 +174,7 @@ _/\__/\__0>
     <td>🤦 Are.na workshop</td>
     <td>📺 Electronic Arts Intermix screening! </td>
     <td rowspan="2">📺 Life 2.0 screening </td>
-    <td>🚨🚨 TBD 🚨🚨</td>
+    <td>🏤 JODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOID </td>
     <td rowspan="2">🖼SHOW</td>
   </tr>
   <tr>
@@ -199,11 +199,11 @@ _/\__/\__0>
   <tr>
     <td>3:00-3:45</td>
     
-    <td>👾 Find a youtube video with nearly zero views. 
+    <td>🤦 My (Cory's) journey through net.art 1996-2020 (part #1) <del>👾 Find a youtube video with nearly zero views. 
    	<ul>
    	<li>Whats at the end of Youtube? </li>
    <li> How did you find the video? </li>
-   <li> Is it an art? </li>
+   <li> Is it an art? </del></li>
     </ul>
     </td>
 	<td>👾 Meme fill in</td>
@@ -216,7 +216,7 @@ _/\__/\__0>
 ---
 
 last updated May, 20, 2020 
-Archive: [2019](index-2019/)
+Archive: [2019](index-2019.html)
 
 <div class="bottom-pony">
 <img src="imgs/unicorn.gif">
