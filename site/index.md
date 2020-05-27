@@ -199,13 +199,17 @@ _/\__/\__0>
   <tr>
     <td>3:00-3:45</td>
     
-    <td>🤦 My (Cory's) journey through net.art 1996-2020 (part #1) <del>👾 Find a youtube video with nearly zero views. 
+    <td>🤦 My (Cory's) journey through net.art 1996-2020 (part #1) 
+    
+    <del>👾 Find a youtube video with nearly zero views. 
    	<ul>
    	<li>Whats at the end of Youtube? </li>
    <li> How did you find the video? </li>
-   <li> Is it an art? </del></li>
+   <li> Is it an art? </li>
     </ul>
+        </del>
     </td>
+
 	<td>👾 Meme fill in</td>
 
     <td>💅🏽🎨🎯 Wrap up party </td>
