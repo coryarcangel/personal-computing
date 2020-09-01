@@ -1,12 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Home</title>
-    <link rel="stylesheet" type="text/css" href="pc.css">
-  </head>
-  <body>
-    <h1 id="personal-computing-">Personal Computing 💅🏽</h1>
+I"�<h1 id="personal-computing-">Personal Computing 💅🏽</h1>
 <hr />
 <hr />
 <hr />
@@ -75,7 +67,7 @@ progresses)</p>
 
 <h2 id="-movies--vids">📺 Movies / Vids</h2>
 
-<p><a href="https://www.amazon.com/Life-2-0-Jason-Spingarn-Koff/dp/B00A2KIT1U">Life 2.0</a></p>
+<p><a href="https://personal-computing-kir-fall-2020/movies-vidz">Misc</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0tZhOF2kgDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -113,9 +105,9 @@ progresses)</p>
     <td>9:00 - 10:15</td>
    <td>Intro 2 class &amp; student introductions (5 min each)</td>
     <td>📺 Artist videos vs. Youtube videos </td>
-    <td>🤦 net.art 1996-2000 </td>
-    <td>🤦 net.art 2000-2010 </td>
-    <td>🤦 net.art 2010-2020 </td>
+    <td>🤦 net.art 1996-2020 (part #1)</td>
+    <td>🤦 net.art 1996-2020 (part #2)</td>
+    <td>🤦 net.art 1996-2020 (part #3)</td>
   </tr>
   
   <tr>
@@ -160,6 +152,4 @@ progresses)</p>
 <img src="imgs/unicorn.gif" />
 </div>
 
-
-  </body>
-</html>
+:ET

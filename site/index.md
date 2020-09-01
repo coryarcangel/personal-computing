@@ -23,11 +23,11 @@ We will be working towards an informal, and private online exhibition on ... Fri
 
 The workshop is organised as a crash course in all things related to anything I can think of in making online work, and putting together an online exhibition. It's going to be fast paced, a bit un-focused, and I'll try to cram as much information in as I can in the 5 days. Don't worry if you miss something, because we will keeping track of everyting on the social network Are.na - which will be a big part of the class. We will start with the basics and focus on a framework to discuss the seemingly simple question - what is contemporary art? And working from there we will dive into contemporary art and all it's online permutations, with a healthy dose of fringe experiences regarding our digital daily lives.
 
-A few notes on COVID. I realize this might seem a disappointment to not meet IRL, but I thought of this as an opportunity which seems very timely given the workshop is about art to be experienced at a distance. So, in keeping with those thoughts, I have re-worked the workshop to take advantage of things which are not IRL based. Yah!
+A few notes on COVID. Although it seems we are meeting IRL, if we do need to switch to remote, this would be an opportunity which seems very timely given the workshop is about art to be experienced at a distance. 
 
 ## Requirements
 
-Familiarity with personal computing devices. Proficiency in English. A cell phone. Open to all students.
+Familiarity with personal computing devices. Proficiency in English. A cell phone, laptop, or access to a computer. Open to all students.
 
 ## Instructor
 
@@ -53,46 +53,26 @@ Cory Arcangel
 
 ## Details
 
-We will be meeting over Zoom at 10:00-16:00 every day with a lunch break between 12:00-1:00. The time before and after class can be used for readings, or web surfing, or unstructured time". The address is:   
-[https://zhdk.zoom.us/j/96351443348?pwd=eW9nSk9XckFCaHNTUlg3bG1WVFo5dz09](https://zhdk.zoom.us/j/96351443348?pwd=eW9nSk9XckFCaHNTUlg3bG1WVFo5dz09)
+We will be meeting IRL 9:00 (ish) to 15:00 (ish) @ KIR, Stavanger, every day with a lunch break between 12:00-12:45. The time before and after class can be used for readings, or web surfing, or "unstructured time". 
 
-All class notes, and breadcrums, sub edits, tangents, related things, etc, etc, will be kept track with are.na. If you are unfamiliar with Are.na, we will be doing an Are.na workshop on the first day of class:  
-[https://www.are.na/personal-computing-zhdk-spring-2020](https://www.are.na/personal-computing-zhdk-spring-2020).  
-
-
-## Zoom ediquite
-
-* Name: please enter you fill name. 
-* Mic: keep it muted unless asking or answering a question
-* Camera: you CAN enable, but it is your choice. 
-* Screenshare: In gen do not use, this is for my slides, but you will enable it for presentations (which there will be many!)
-* Chat: please use this to ask questions (Twitch style). Please send to everyone. 
-* Raise hand: TBH, I am not familiar with this tool, but we can try it out if chatting questions seems not to work.
-* Answering questions: unmute you mic (I should notice that on the participants page, and call on you). When done, remem to mute your mic. 
-* If you are low bandwidth, try dialing in and listening. 
-* Hints: 
-	- try to join class early so you can play with your settings. 
-	- DEF REMEM TO MUTE MIC. 
-	- Mic tends to work better if you use earphones
-	- Remember, this class is public to other participants in the class, so keep in mind. 
-	- Feel free to use chat. 
+All class notes, and breadcrums, sub edits, tangents, related things, etc, etc, will be kept track with are.na. If you are unfamiliar with Are.na, we will be doing an Are.na workshop on the first day of class!!!!!!:  
+[https://www.are.na/personal-computing-kir-fall-2020/index](https://www.are.na/personal-computing-kir-fall-2020/index)  
 
 ## Structure
 
-This class will meet for one week - from 10am to 4pm. The structure - which is broken up into 45 min hour long modules - will ping pong between lectures 🤦‍, site visits to different spaces 🏤, film screenings 📺, readings 📒, discussions 👑, and games / projects 👾, and finally an exhibition 🖼. 
+This class will meet for one week - from 9 am to 3pm. The structure - which is broken up into 1.15 min segments w 15 minute breaks in-between - will ping pong between lectures 🤦‍, film screenings 📺, readings 📒, discussions 👑, and games / projects 👾, and finally an exhibition 🖼. 
 
 ((̲̅ ̲̅(̲̅C̲̅r̲̅a̲̅y̲̅o̲̅l̲̲̅̅a̲̅( ̲̅((>
 
 ## 📒 Readings
 
-[📒 Assigned readings](https://www.are.na/personal-computing-zhdk-spring-2020/readingz) Are.na channel  
-[🤦‍ RAW readings](https://www.are.na/personal-computing-zhdk-spring-2020/raw-4scc_zkklo4) Are.na channel (to be updated BY ALL as class 
+[📒 Assigned readings](https://www.are.na/personal-computing-kir-fall-2020/readingz) Are.na channel  
+[🤦‍ RAW readings](https://www.are.na/personal-computing-kir-fall-2020/raw-4syrcj9rt_k) Are.na channel (to be updated BY ALL as class 
 progresses)
 
 ## 📺 Movies / Vids
 
-[Electronic Art Intermix](http://eai.org/education/)  
-[Misc](https://www.are.na/personal-computing-zhdk-spring-2020/movies-vidz)
+[Life 2.0](https://www.amazon.com/Life-2-0-Jason-Spingarn-Koff/dp/B00A2KIT1U)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0tZhOF2kgDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -119,7 +99,7 @@ _/\__/\__0>
     <tr>
     <td>📒 Reading</td>
     <td>📒 The Creative Act, Marcel Duchamp</td>
-    <td>📒 Before ‘Old Town Road,’ Lil Nas X Was a Tweetdecker, Brian Feldman & The Short Rise and Long Tail of Lil Nas X, By Jon Caramanica  
+    <td>📒 reflections #5, by Laurel Schwulst 
     </td>
     <td>📒 A Business With No End, Where does this strange empire start or stop?, By JENNY ODELL</td>
     <td>📒 Curating Online Exhibitions, Part 1: Performance, variability, objecthood, By Michael Connor & The Universal: An Interview With Olia Lialina, By Robert Barry</td>
@@ -127,36 +107,21 @@ _/\__/\__0>
   </tr>
   
   <tr>
-    <td>10:00-10:45</td>
-   <td rowspan="2">Introductions (5 min each)</td>
-    <td rowspan="2">🏤 IRL workshop
-    <ul>
-    <li>Where r u?</li>
-    <li>Whats on TV?</li>
-    <li>Whats in your fridge?</li>
-    <li>What's outside your window?</li>
-    <li>What is your pet doing?</li>
-    </ul>
-    </td>
-    <td>🏤 Museum of Online Multiplayer Art</td>
-    <td>🤦 My (Cory's) journey through net.art 1996-2020 (part #2)
-     <ul>
-    <li>Introduction & net.art generations(? )</li>
-    <li>late 90's rain</li>
-    <li>NYC early 2000's</li>
-    <li>Surf clubs (second golden era?)</li>
-    <li>Since then ......</li>
-    </ul>   
-    </td>
-    <td rowspan="2">😵 Individual tutorials </td>
+    <td>9:00 - 10:15</td>
+   <td>Intro 2 class & student introductions (5 min each)</td>
+    <td>📺 Artist videos vs. Youtube videos </td>
+    <td>🤦 net.art 1996-2000 </td>
+    <td>🤦 net.art 2000-2010 </td>
+    <td>🤦 net.art 2010-2020 </td>
   </tr>
   
   <tr>
-    <td>11:00-11:45</td>
-    
-
-    <td>🏤 Visit 2 Sitterwerk</td>
-    <td>👾 Hosted, by Oila Lialina</td>
+    <td>10:30-12:00</td>
+	<td>🤦 Are.na workshop</td>
+	<td>👾 Youtube deep dive</td>
+    <td>👾 MEMEs r Us</td>
+    <td>🖼 Individual tutorials</td>
+    <td>🖼 Individual tutorials</td>
 
   </tr>
   
@@ -170,56 +135,23 @@ _/\__/\__0>
   </tr>
   
   <tr>
-    <td>1:00-1:45</td>
-    <td>🤦 Are.na workshop</td>
-    <td>📺 Electronic Arts Intermix screening! </td>
-    <td rowspan="2">📺 Life 2.0 screening </td>
-    <td>🏤 JODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOID </td>
-    <td rowspan="2">🖼SHOW</td>
+    <td>1:00-3:00</td>
+	<td>👾 What is a website? </td>
+	<td> <img src="imgs/external-content.duckduckgo.gif"> </td>
+	<td>📺  Life 2.0 </td>
+	<td>🖼 Individual tutorials</td>
+	<td>🖼 SSSSHHHOOOOWWW</td>
   </tr>
-  <tr>
-    <td>2:00-2:45</td>
-    <td rowspan='2'>👾 Give a 5 minute presentation on an artist's web presence - I will assign the artist over Zoom. 
-    <ul>
-    	<li>What's their work?
-    	</li>
-    	<li>What's their web presence?
-    	</li>
-    	<li>Is there a relationship between the 2?
-    	</li>
-    </ul>
-     </td>
-    <td>📺 For your enjoyment, I will make a megathread of my all time fav youtube vids. </td>
 
-
-    <td rowspan="2">😵 Individual tutorials: Final project. Identify a context and structure online, or at least that relies on electricity) and report on its input and outputs and possibilities. Make a poetic gesture in this context (doesnt have to be complicated!). Present to class on Friday!.  
-</td>
-  </tr>
-  
-  <tr>
-    <td>3:00-3:45</td>
-    
-    <td>🤦 My (Cory's) journey through net.art 1996-2020 (part #1) 
-    
-    <del>👾 Find a youtube video with nearly zero views. 
-   	<ul>
-   	<li>Whats at the end of Youtube? </li>
-   <li> How did you find the video? </li>
-   <li> Is it an art? </li>
-    </ul>
-        </del>
-    </td>
-
-	<td>👾 Meme fill in</td>
-
-    <td>💅🏽🎨🎯 Wrap up party </td>
-  </tr>
 </tbody>
 </table>
 
----
+<br>
+<br>
+<br>
+<br>
 
-last updated May, 20, 2020 
+last updated Sept 1, 2020 
 
 <div class="bottom-pony">
 <img src="imgs/unicorn.gif">

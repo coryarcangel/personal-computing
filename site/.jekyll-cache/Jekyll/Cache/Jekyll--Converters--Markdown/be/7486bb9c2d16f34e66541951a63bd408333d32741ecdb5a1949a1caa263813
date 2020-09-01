@@ -1,12 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Home</title>
-    <link rel="stylesheet" type="text/css" href="pc.css">
-  </head>
-  <body>
-    <h1 id="personal-computing-">Personal Computing 💅🏽</h1>
+I"� <h1 id="personal-computing-">Personal Computing 💅🏽</h1>
 <hr />
 <hr />
 <hr />
@@ -30,7 +22,7 @@
 
 <h2 id="requirements">Requirements</h2>
 
-<p>Familiarity with personal computing devices. Proficiency in English. A cell phone, laptop, or access to a computer. Open to all students.</p>
+<p>Familiarity with personal computing devices. Proficiency in English. A cell phone. Open to all students.</p>
 
 <h2 id="instructor">Instructor</h2>
 
@@ -56,26 +48,27 @@
 
 <h2 id="details">Details</h2>
 
-<p>We will be meeting IRL 9:00 (ish) to 15:00 (ish) @ KIR, Stavanger, every day with a lunch break between 12:00-12:45. The time before and after class can be used for readings, or web surfing, or “unstructured time”.</p>
+<p>We will be meeting IRL 9:00 to 15:00 every day with a lunch break between 12:00-12:45. The time before and after class can be used for readings, or web surfing, or “unstructured time”.</p>
 
 <p>All class notes, and breadcrums, sub edits, tangents, related things, etc, etc, will be kept track with are.na. If you are unfamiliar with Are.na, we will be doing an Are.na workshop on the first day of class!!!!!!:<br />
-<a href="https://www.are.na/personal-computing-kir-fall-2020/index">https://www.are.na/personal-computing-kir-fall-2020/index</a></p>
+(https://www.are.na/personal-computing-kir-fall-2020/index).</p>
 
 <h2 id="structure">Structure</h2>
 
-<p>This class will meet for one week - from 9 am to 3pm. The structure - which is broken up into 1.15 min segments w 15 minute breaks in-between - will ping pong between lectures 🤦‍, film screenings 📺, readings 📒, discussions 👑, and games / projects 👾, and finally an exhibition 🖼.</p>
+<p>This class will meet for one week - from 9 am to 3pm. The structure - which is broken up into 45 min hour long modules - will ping pong between lectures 🤦‍, site visits to different spaces 🏤, film screenings 📺, readings 📒, discussions 👑, and games / projects 👾, and finally an exhibition 🖼.</p>
 
 <p>((̲̅ ̲̅(̲̅C̲̅r̲̅a̲̅y̲̅o̲̅l̲̲̅̅a̲̅( ̲̅((&gt;</p>
 
 <h2 id="-readings">📒 Readings</h2>
 
-<p><a href="https://www.are.na/personal-computing-kir-fall-2020/readingz">📒 Assigned readings</a> Are.na channel<br />
-<a href="https://www.are.na/personal-computing-kir-fall-2020/raw-4syrcj9rt_k">🤦‍ RAW readings</a> Are.na channel (to be updated BY ALL as class 
+<p><a href="https://www.are.na/personal-computing-zhdk-spring-2020/readingz">📒 Assigned readings</a> Are.na channel<br />
+<a href="https://www.are.na/personal-computing-zhdk-spring-2020/raw-4scc_zkklo4">🤦‍ RAW readings</a> Are.na channel (to be updated BY ALL as class 
 progresses)</p>
 
 <h2 id="-movies--vids">📺 Movies / Vids</h2>
 
-<p><a href="https://www.amazon.com/Life-2-0-Jason-Spingarn-Koff/dp/B00A2KIT1U">Life 2.0</a></p>
+<p><a href="http://eai.org/education/">Electronic Art Intermix</a><br />
+<a href="https://www.are.na/personal-computing-zhdk-spring-2020/movies-vidz">Misc</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0tZhOF2kgDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -102,7 +95,7 @@ progresses)</p>
     <tr>
     <td>📒 Reading</td>
     <td>📒 The Creative Act, Marcel Duchamp</td>
-    <td>📒 reflections #5, by Laurel Schwulst 
+    <td>📒 Before ‘Old Town Road,’ Lil Nas X Was a Tweetdecker, Brian Feldman &amp; The Short Rise and Long Tail of Lil Nas X, By Jon Caramanica  
     </td>
     <td>📒 A Business With No End, Where does this strange empire start or stop?, By JENNY ODELL</td>
     <td>📒 Curating Online Exhibitions, Part 1: Performance, variability, objecthood, By Michael Connor &amp; The Universal: An Interview With Olia Lialina, By Robert Barry</td>
@@ -110,21 +103,36 @@ progresses)</p>
   </tr>
   
   <tr>
-    <td>9:00 - 10:15</td>
-   <td>Intro 2 class &amp; student introductions (5 min each)</td>
-    <td>📺 Artist videos vs. Youtube videos </td>
-    <td>🤦 net.art 1996-2000 </td>
-    <td>🤦 net.art 2000-2010 </td>
-    <td>🤦 net.art 2010-2020 </td>
+    <td>10:00-10:45</td>
+   <td rowspan="2">Introductions (5 min each)</td>
+    <td rowspan="2">🏤 IRL workshop
+    <ul>
+    <li>Where r u?</li>
+    <li>Whats on TV?</li>
+    <li>Whats in your fridge?</li>
+    <li>What's outside your window?</li>
+    <li>What is your pet doing?</li>
+    </ul>
+    </td>
+    <td>🏤 Museum of Online Multiplayer Art</td>
+    <td>🤦 My (Cory's) journey through net.art 1996-2020 (part #2)
+     <ul>
+    <li>Introduction &amp; net.art generations(? )</li>
+    <li>late 90's rain</li>
+    <li>NYC early 2000's</li>
+    <li>Surf clubs (second golden era?)</li>
+    <li>Since then ......</li>
+    </ul>   
+    </td>
+    <td rowspan="2">😵 Individual tutorials </td>
   </tr>
   
   <tr>
-    <td>10:30-12:00</td>
-	<td>🤦 Are.na workshop</td>
-	<td>👾 Youtube deep dive</td>
-    <td>👾 MEMEs r Us</td>
-    <td>🖼 Individual tutorials</td>
-    <td>🖼 Individual tutorials</td>
+    <td>11:00-11:45</td>
+    
+
+    <td>🏤 Visit 2 Sitterwerk</td>
+    <td>👾 Hosted, by Oila Lialina</td>
 
   </tr>
   
@@ -138,28 +146,59 @@ progresses)</p>
   </tr>
   
   <tr>
-    <td>1:00-3:00</td>
-	<td>👾 What is a website? </td>
-	<td> <img src="imgs/external-content.duckduckgo.gif" /> </td>
-	<td>📺  Life 2.0 </td>
-	<td>🖼 Individual tutorials</td>
-	<td>🖼 SSSSHHHOOOOWWW</td>
+    <td>1:00-1:45</td>
+    <td>🤦 Are.na workshop</td>
+    <td>📺 Electronic Arts Intermix screening! </td>
+    <td rowspan="2">📺 Life 2.0 screening </td>
+    <td>🏤 JODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOID </td>
+    <td rowspan="2">🖼SHOW</td>
   </tr>
+  <tr>
+    <td>2:00-2:45</td>
+    <td rowspan="2">👾 Give a 5 minute presentation on an artist's web presence - I will assign the artist over Zoom. 
+    <ul>
+    	<li>What's their work?
+    	</li>
+    	<li>What's their web presence?
+    	</li>
+    	<li>Is there a relationship between the 2?
+    	</li>
+    </ul>
+     </td>
+    <td>📺 For your enjoyment, I will make a megathread of my all time fav youtube vids. </td>
 
+
+    <td rowspan="2">😵 Individual tutorials: Final project. Identify a context and structure online, or at least that relies on electricity) and report on its input and outputs and possibilities. Make a poetic gesture in this context (doesnt have to be complicated!). Present to class on Friday!.  
+</td>
+  </tr>
+  
+  <tr>
+    <td>3:00-3:45</td>
+    
+    <td>🤦 My (Cory's) journey through net.art 1996-2020 (part #1) 
+    
+    <del>👾 Find a youtube video with nearly zero views. 
+   	<ul>
+   	<li>Whats at the end of Youtube? </li>
+   <li> How did you find the video? </li>
+   <li> Is it an art? </li>
+    </ul>
+        </del>
+    </td>
+
+	<td>👾 Meme fill in</td>
+
+    <td>💅🏽🎨🎯 Wrap up party </td>
+  </tr>
 </tbody>
 </table>
 
-<p><br />
-<br />
-<br />
-<br /></p>
+<hr />
 
-<p>last updated Sept 1, 2020</p>
+<p>last updated August 31st, 2020</p>
 
 <div class="bottom-pony">
 <img src="imgs/unicorn.gif" />
 </div>
 
-
-  </body>
-</html>
+:ET

@@ -1,12 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Home</title>
-    <link rel="stylesheet" type="text/css" href="pc.css">
-  </head>
-  <body>
-    <h1 id="personal-computing-">Personal Computing 💅🏽</h1>
+I"�<h1 id="personal-computing-">Personal Computing 💅🏽</h1>
 <hr />
 <hr />
 <hr />
@@ -75,7 +67,7 @@ progresses)</p>
 
 <h2 id="-movies--vids">📺 Movies / Vids</h2>
 
-<p><a href="https://www.amazon.com/Life-2-0-Jason-Spingarn-Koff/dp/B00A2KIT1U">Life 2.0</a></p>
+<p><a href="https://personal-computing-kir-fall-2020/movies-vidz">Misc</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0tZhOF2kgDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -113,18 +105,17 @@ progresses)</p>
     <td>9:00 - 10:15</td>
    <td>Intro 2 class &amp; student introductions (5 min each)</td>
     <td>📺 Artist videos vs. Youtube videos </td>
-    <td>🤦 net.art 1996-2000 </td>
-    <td>🤦 net.art 2000-2010 </td>
-    <td>🤦 net.art 2010-2020 </td>
+    <td>🏤 net.art 1996-2020 (part #1)</td>
+    <td>🏤 net.art 1996-2020 (part #2)</td>
+    <td>🏤 net.art 1996-2020 (part #3)</td>
   </tr>
   
   <tr>
-    <td>10:30-12:00</td>
-	<td>🤦 Are.na workshop</td>
-	<td>👾 Youtube deep dive</td>
-    <td>👾 MEMEs r Us</td>
-    <td>🖼 Individual tutorials</td>
-    <td>🖼 Individual tutorials</td>
+    <td>11:00-11:45</td>
+    
+
+    <td>🏤 Visit 2 Sitterwerk</td>
+    <td>👾 Hosted, by Oila Lialina</td>
 
   </tr>
   
@@ -138,28 +129,59 @@ progresses)</p>
   </tr>
   
   <tr>
-    <td>1:00-3:00</td>
-	<td>👾 What is a website? </td>
-	<td> <img src="imgs/external-content.duckduckgo.gif" /> </td>
-	<td>📺  Life 2.0 </td>
-	<td>🖼 Individual tutorials</td>
-	<td>🖼 SSSSHHHOOOOWWW</td>
+    <td>1:00-1:45</td>
+    <td>🤦 Are.na workshop</td>
+    <td>📺 Electronic Arts Intermix screening! </td>
+    <td rowspan="2">📺 Life 2.0 screening </td>
+    <td>🏤 JODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOIDJODI JODI JODI JODI JOID </td>
+    <td rowspan="2">🖼SHOW</td>
   </tr>
+  <tr>
+    <td>2:00-2:45</td>
+    <td rowspan="2">👾 Give a 5 minute presentation on an artist's web presence - I will assign the artist over Zoom. 
+    <ul>
+    	<li>What's their work?
+    	</li>
+    	<li>What's their web presence?
+    	</li>
+    	<li>Is there a relationship between the 2?
+    	</li>
+    </ul>
+     </td>
+    <td>📺 For your enjoyment, I will make a megathread of my all time fav youtube vids. </td>
 
+
+    <td rowspan="2">😵 Individual tutorials: Final project. Identify a context and structure online, or at least that relies on electricity) and report on its input and outputs and possibilities. Make a poetic gesture in this context (doesnt have to be complicated!). Present to class on Friday!.  
+</td>
+  </tr>
+  
+  <tr>
+    <td>3:00-3:45</td>
+    
+    <td>🤦 My (Cory's) journey through net.art 1996-2020 (part #1) 
+    
+    <del>👾 Find a youtube video with nearly zero views. 
+   	<ul>
+   	<li>Whats at the end of Youtube? </li>
+   <li> How did you find the video? </li>
+   <li> Is it an art? </li>
+    </ul>
+        </del>
+    </td>
+
+	<td>👾 Meme fill in</td>
+
+    <td>💅🏽🎨🎯 Wrap up party </td>
+  </tr>
 </tbody>
 </table>
 
-<p><br />
-<br />
-<br />
-<br /></p>
+<hr />
 
-<p>last updated Sept 1, 2020</p>
+<p>last updated August 31st, 2020</p>
 
 <div class="bottom-pony">
 <img src="imgs/unicorn.gif" />
 </div>
 
-
-  </body>
-</html>
+:ET
