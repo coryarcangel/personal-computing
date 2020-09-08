@@ -1,0 +1,51 @@
+@font-face {
+  font-family: Unicorn;
+  src: url(GoodUnicornRegular-Rxev.ttf);
+}
+
+body {
+background-color: white;
+border: 10px
+}
+
+h1 {
+  font-family: Unicorn;
+  font-size:8vw
+}
+
+h2 {
+  font-family: Unicorn;
+  font-size:4vw
+}
+
+p {
+font-family: Arial, Helvetica, sans-serif;
+font-size:20px
+}
+
+ul {
+font-family: Arial, Helvetica, sans-serif;
+font-size:20px
+}
+
+li {
+font-family: Arial, Helvetica, sans-serif;
+font-size:20px
+}
+
+table, th, td {
+  border: 1px solid black;
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  padding: 15px;
+  font-size:20px
+}
+
+
+.bottom-pony
+{
+	position: fixed;
+	right: 0px;
+	bottom: 0px;
+}

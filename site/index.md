@@ -107,23 +107,33 @@ _/\__/\__0>
   </tr>
   
   <tr>
-    <td>9:00 - 10:15</td>
+    <td>9:00 - 9:50</td>
    <td>Intro 2 class & student introductions (5 min each)</td>
+    <td>📒 Readings & mess with Are.na </td>
     <td>📺 Artist videos vs. Youtube videos </td>
-    <td>🤦 net.art 1996-2000 </td>
     <td>🤦 net.art 2000-2010 </td>
     <td>🤦 net.art 2010-2020 </td>
   </tr>
   
   <tr>
-    <td>10:30-12:00</td>
-	<td>🤦 Are.na workshop</td>
-	<td>👾 Youtube deep dive</td>
-    <td>👾 MEMEs r Us</td>
+    <td>10:00 - 10:50</td>
+   <td>Intro 2 class & student introductions (5 min each)</td>
+    <td>📒 Readings & mess with Are.na </td>
+    <td>🤦 net.art 1996-2000</td>
     <td>🖼 Individual tutorials</td>
     <td>🖼 Individual tutorials</td>
 
   </tr>
+ 
+   <tr>
+    <td>11:00 - 11:50</td>
+ 	<td>🤦 Are.na workshop</td>
+    <td>📒 Readings & mess with Are.na </td>
+    <td>👾 MEMEs r Us </td>
+    <td>🖼 Individual tutorials</td>
+    <td>🖼 Individual tutorials</td>
+  </tr>
+ 
   
   <tr>
     <td>12:00-1:00</td>
