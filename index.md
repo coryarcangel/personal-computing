@@ -51,22 +51,21 @@ Cory Arcangel
 
 ## Details
 
-We will be meeting 900-1600 every day with a lunch break between 12:00-1:00. An important deviation is THE FIRST DAY in which we will meet at 9:30. The time before and after class can be used for readings, or web surfing, or unstructured time". 
+We will be meeting 900-1600 every day with a lunch break between 12:00-1:00. An important deviation is THE FIRST DAY in which we will meet at 9:30. The time before and after class can be used for readings, or web surfing, or "unstructured time". 
 
 All class notes, and breadcrums, sub edits, tangents, related things, etc, etc, will be kept track with are.na on a private channel. If you are unfamiliar with Are.na, we will be doing an Are.na workshop on the first day of class:  
 [https://www.are.na/personal-computing-filmkunstskolen-i-kabelvag/index](https://www.are.na/personal-computing-filmkunstskolen-i-kabelvag/index).  
 
 ## Structure
 
-This class will meet for one week - from 9am to 4pm. The structure - which is broken up into 45 min hour long modules - will ping pong between lectures 🤦‍, site visits to different spaces 🏤, film screenings 📺, readings 📒, discussions 👑, and games / projects 👾, and finally an exhibition 🖼. 
+This class will meet for one week - from 9am to 4pm. The structure - which is broken up into 1hr & 15min long modules - will ping pong between lectures 🤦‍, site visits to different spaces 🏤, film screenings 📺, readings 📒, discussions 👑, and games / projects 👾, and finally an exhibition 🖼. 
 
 ((̲̅ ̲̅(̲̅C̲̅r̲̅a̲̅y̲̅o̲̅l̲̲̅̅a̲̅( ̲̅((>
 
 ## 📒 Readings
 
 [📒 Assigned readings](https://www.are.na/personal-computing-filmkunstskolen-i-kabelvag/readingz-xvzce_bexse) Are.na channel  
-[🤦‍ RAW readings](https://www.are.na/personal-computing-filmkunstskolen-i-kabelvag/raw-nib_st2y0p8) Are.na channel (to be updated BY ALL as class 
-progresses)
+[🤦‍ RAW readings](https://www.are.na/personal-computing-filmkunstskolen-i-kabelvag/raw-nib_st2y0p8) Are.na channel (to be updated BY ALL as class progresses)
 
 ## 📺 Movies / Vids
 
