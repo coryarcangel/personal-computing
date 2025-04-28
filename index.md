@@ -23,11 +23,9 @@ We will be working towards an informal, and private online exhibition on ... Fri
 
 The workshop is organised as a crash course in all things related to anything I can think of in making online work, and putting together an online exhibition. It's going to be fast paced, a bit un-focused, and I'll try to cram as much information in as I can in the 5 days. Don't worry if you miss something, because we will keeping track of everyting on the social network Are.na - which will be a big part of the class. We will start with the basics and focus on a framework to discuss the seemingly simple question - what is contemporary art? And working from there we will dive into contemporary art and all it's online permutations, with a healthy dose of fringe experiences regarding our digital daily lives.
 
-A few notes on COVID. Although it seems we are meeting IRL, if we do need to switch to remote, this would be an opportunity which seems very timely given the workshop is about art to be experienced at a distance. 
-
 ## Requirements
 
-Familiarity with personal computing devices. Proficiency in English. A cell phone, laptop, or access to a computer. Open to all students.
+Familiarity with personal computing devices. Proficiency in English. A cell phone. Open to all students.
 
 ## Instructor
 
@@ -53,26 +51,26 @@ Cory Arcangel
 
 ## Details
 
-We will be meeting IRL 9:00 (ish) to 15:00 (ish) @ KIR, Stavanger, every day with a lunch break between 12:00-12:45. The time before and after class can be used for readings, or web surfing, or "unstructured time". 
+We will be meeting 900-1600 every day with a lunch break between 12:00-1:00. An important deviation is THE FIRST DAY in which we will meet at 9:30. The time before and after class can be used for readings, or web surfing, or unstructured time". 
 
-All class notes, and breadcrums, sub edits, tangents, related things, etc, etc, will be kept track with are.na. If you are unfamiliar with Are.na, we will be doing an Are.na workshop on the first day of class!!!!!!:  
-[https://www.are.na/personal-computing-kir-fall-2020/index](https://www.are.na/personal-computing-kir-fall-2020/index)  
+All class notes, and breadcrums, sub edits, tangents, related things, etc, etc, will be kept track with are.na on a private channel. If you are unfamiliar with Are.na, we will be doing an Are.na workshop on the first day of class:  
+[https://www.are.na/personal-computing-filmkunstskolen-i-kabelvag/index](https://www.are.na/personal-computing-filmkunstskolen-i-kabelvag/index).  
 
 ## Structure
 
-This class will meet for one week - from 9 am to 3pm. The structure - which is broken up into 1.15 min segments w 15 minute breaks in-between - will ping pong between lectures 🤦‍, film screenings 📺, readings 📒, discussions 👑, and games / projects 👾, and finally an exhibition 🖼. 
+This class will meet for one week - from 9am to 4pm. The structure - which is broken up into 45 min hour long modules - will ping pong between lectures 🤦‍, site visits to different spaces 🏤, film screenings 📺, readings 📒, discussions 👑, and games / projects 👾, and finally an exhibition 🖼. 
 
 ((̲̅ ̲̅(̲̅C̲̅r̲̅a̲̅y̲̅o̲̅l̲̲̅̅a̲̅( ̲̅((>
 
 ## 📒 Readings
 
-[📒 Assigned readings](https://www.are.na/personal-computing-kir-fall-2020/readingz) Are.na channel  
-[🤦‍ RAW readings](https://www.are.na/personal-computing-kir-fall-2020/raw-4syrcj9rt_k) Are.na channel (to be updated BY ALL as class 
+[📒 Assigned readings](https://www.are.na/personal-computing-filmkunstskolen-i-kabelvag/readingz-xvzce_bexse) Are.na channel  
+[🤦‍ RAW readings](https://www.are.na/personal-computing-filmkunstskolen-i-kabelvag/raw-nib_st2y0p8) Are.na channel (to be updated BY ALL as class 
 progresses)
 
 ## 📺 Movies / Vids
 
-[Life 2.0](https://www.amazon.com/Life-2-0-Jason-Spingarn-Koff/dp/B00A2KIT1U)
+[Misc](https://www.are.na/personal-computing-zhdk-spring-2020/movies-vidz)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0tZhOF2kgDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -83,85 +81,94 @@ _/\__/\__0>
 ## Calendar
 
 <table>
-<thead>
-  <tr>
-    <th>😶🎓🖼🖊🎨🎸</th>
-    <th>Monday</th>
-    <th>Tuesday</th>
-    <th>Wednesday</th>
-    <th>Thursday</th>
-    <th>Friday</th>
-  </tr>
-</thead>
+	<tr>
+		<td>😶🎓🖼🖊🎨🎸</td>
+		<td>Monday</td>
+		<td>Tuesday</td>
+		<td>Wednesday</td>
+		<td>Thursday</td>
+		<td>Friday</td>
+	</tr>
+	<tr>
+	    <td>📒 Reading</td>
+	    <td>📒 The Creative Act, Marcel Duchamp</td>
+	    <td>📒 Before ‘Old Town Road,’ Lil Nas X Was a Tweetdecker, Brian Feldman & The Short Rise and Long Tail of Lil Nas X, By Jon Caramanica  </td>
+	    <td>📒 A Business With No End, Where does this strange empire start or stop?, By JENNY ODELL</td>
+	    <td>📒 Curating Online Exhibitions, Part 1: Performance, variability, objecthood, By Michael Connor & The Universal: An Interview With Olia Lialina, By Robert Barry</td>
+	    <td>📒 Anything on RAW Are.na channel which looks fun</td>
 
-<tbody>
-  
-    <tr>
-    <td>📒 Reading</td>
-    <td>📒 The Creative Act, Marcel Duchamp</td>
-    <td>📒 reflections #5, by Laurel Schwulst 
-    </td>
-    <td>📒 A Business With No End, Where does this strange empire start or stop?, By JENNY ODELL</td>
-    <td>📒 Curating Online Exhibitions, Part 1: Performance, variability, objecthood, By Michael Connor & The Universal: An Interview With Olia Lialina, By Robert Barry</td>
-    <td>📒 Anything on RAW Are.na channel which looks fun</td>
-  </tr>
-  
-  <tr>
-    <td>9:00 - 9:50</td>
-   <td>Intro 2 class & student introductions (5 min each)</td>
-    <td>📒 Readings & mess with Are.na </td>
-    <td>📺 Artist videos vs. Youtube videos </td>
-    <td>🤦 net.art 2000-2010 </td>
-    <td>🤦 net.art 2010-2020 </td>
-  </tr>
-  
-  <tr>
-    <td>10:00 - 10:50</td>
-   <td>Intro 2 class & student introductions (5 min each)</td>
-    <td>📒 Readings & mess with Are.na </td>
-    <td>🤦 net.art 1996-2000</td>
-    <td>🖼 Individual tutorials</td>
-    <td>🖼 Individual tutorials</td>
-
-  </tr>
- 
-   <tr>
-    <td>11:00 - 11:50</td>
- 	<td>🤦 Are.na workshop</td>
-    <td>📒 Readings & mess with Are.na </td>
-    <td>👾 MEMEs r Us </td>
-    <td>🖼 Individual tutorials</td>
-    <td>🖼 Individual tutorials</td>
-  </tr>
- 
-  
-  <tr>
-    <td>12:00-1:00</td>
-    <td> 🍽</td>
-    <td> 🍽</td>
-    <td> 🍽</td>
-    <td> 🍽</td>
-    <td> 🍽</td>
-  </tr>
-  
-  <tr>
-    <td>1:00-3:00</td>
-	<td>👾 What is a website? </td>
-	<td> <img src="imgs/external-content.duckduckgo.gif"> </td>
-	<td>📺  Life 2.0 </td>
-	<td>🖼 Individual tutorials</td>
-	<td>🖼 SSSSHHHOOOOWWW</td>
-  </tr>
-
-</tbody>
+	</tr>
+	<tr>
+		<td>9:00-9:30</td>
+		<td>N/a</td>
+		<td>Goss</td>
+		<td>Goss</td>
+		<td>Goss</td>
+		<td>Goss</td>
+	</tr>
+	<tr>
+		<td>9:30-10:15</td>
+		<td>Workshop starts & Intros 🇺🇸</td>
+		<td>
+		👾 Find a youtube video with nearly zero views. 
+		<ul>
+		<li>Whats at the end of Youtube? </li>
+		<li> How did you find the video? </li>
+		<li> Is it an art? </li>
+		</ul>
+      </td>
+		<td>Local scene vibes (let's go outside!)</td>
+		<td>Pocket computing assignment!</td>
+		<td>Pocket computing install!</td>
+	</tr>
+	<tr>
+		<td>10:30-12:00</td>
+		<td>Are.na introduction!!!</td>
+		<td>
+		Zero views: the screening 📞
+    		</td>
+		<td>Local scene vibes (let's go outside!)</td>
+		<td>Pocket computing assignment!</td>
+		<td>Pocket computing EXHIBITION!</td>
+	</tr>
+	<tr>
+	    <td>12:00-1:00</td>
+	    <td> 🍽</td>
+	    <td> 🍽</td>
+	    <td> 🍽</td>
+	    <td> 🍽</td>
+	    <td> 🍽</td>
+	</tr>
+	<tr>
+		<td>1:00-14:15</td>
+		<td>🤦 My (Cory's) journey through net.art 1996-2020 (part #1) </td>
+		<td>
+			🤦 My (Cory's) journey through net.art 1996-2020 (part #2)
+		     <ul>
+		    <li>Introduction & net.art generations(? )</li>
+		    <li>late 90's rain</li>
+		    <li>NYC early 2000's</li>
+		    <li>Surf clubs (second golden era?)</li>
+		    <li>Since then ......</li>
+		    </ul> 
+		</td>
+		<td>Individual tutorials</td>
+		<td>Individual tutorials</td>
+		<td>Flex? Life 2.0?</td>
+	</tr>
+	<tr>
+		<td>14:30-1600</td>
+		<td>Can screenshots be paintings?</td>
+		<td>Movie night: The Social Network 📺</td>
+		<td>Individual tutorials</td>
+		<td>Individual tutorials</td>
+		<td>Flex? Life 2.0?</td>
+	</tr>
 </table>
 
-<br>
-<br>
-<br>
-<br>
+---
 
-last updated Sept 1, 2020 
+last updated April 27, 2025
 
 <div class="bottom-pony">
 <img src="imgs/unicorn.gif">
